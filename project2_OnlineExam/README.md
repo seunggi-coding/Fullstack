@@ -2,7 +2,7 @@
 
 ## 소개
 
-이 프로젝트는 **오프라인 국비지원 부트캠프** 중 진행된 **정보처리기사 CBT 시스템**입니다. 이 시스템은 정보처리기사 자격증 준비를 돕기 위해 개발되었으며, 문제풀이와 정답률 확인, 결제 기능 등을 갖춘 풀스택 프로젝트입니다. 또한 모든 페이지는 적응형 웹페이지로 구성되어 있어 PC, 태블릿, 모바일 환경에서도 적절한 화면 비율로 이용이 가능합니다.
+이 프로젝트는 **오프라인 국비지원 부트캠프** 중 진행된 **정보처리기사 CBT 시스템**입니다. 이 시스템은 정보처리기사 자격증 준비를 돕기 위해 개발되었으며, 문제풀이와 정답률 확인, 결제 기능 등을 갖춘 풀스택 프로젝트입니다. 또한 모든 페이지는 적응형 웹페이지로 구성되어 PC, 태블릿, 모바일 환경에서도 적절한 화면 비율로 이용이 가능합니다.
 
 본 프로젝트는 다음과 같은 기능을 제공합니다:
 - 회원가입 (일반 회원 '777' 코드, 관리자 '999' 코드)
@@ -25,12 +25,14 @@
 
   ![main](https://github.com/user-attachments/assets/1f0a71a9-2ce4-4b2a-9c39-886bf4701ae0)
   ![main_mobile](https://github.com/user-attachments/assets/49328608-540f-4de3-801e-f2b5eb4e26a0)
+  ![main2](https://github.com/user-attachments/assets/24bf0bc2-6ee4-44a7-9bbe-5ea6b8741861)
 
 ### 2. 회원가입
 - 사용자는 '777' 회원코드를 입력하여 일반 회원으로, '999' 회원코드를 입력하면 관리자로 가입이 가능합니다.
 
   ![join](https://github.com/user-attachments/assets/d68c6698-a810-4205-ae56-35177ed3b914)
   ![join_mobile](https://github.com/user-attachments/assets/9637f45a-64a4-4d6b-b8fd-8e07b7e56e3b)
+  ![join2](https://github.com/user-attachments/assets/5bb6cc81-a17f-4d60-8b16-9738ed205957)
 
 ### 3. 로그인
 - Spring Security를 적용하여 사용자 또는 관리자로 로그인할 수 있으며, 각 역할에 맞는 페이지에 접근할 수 있습니다.
@@ -43,28 +45,37 @@
 
   ![example](https://github.com/user-attachments/assets/2d10e247-9342-4f07-b58c-7afd896d1ad4)
   ![example2](https://github.com/user-attachments/assets/9ed992d1-a6ce-480e-885a-f2ab197d2ef1)
+  ![example3](https://github.com/user-attachments/assets/07d90f36-9baa-4d45-ae19-b705b91dbdaf)
+  ![example4](https://github.com/user-attachments/assets/51375671-fd7c-4230-a29a-629c7848911c)
 
 ### 5. 결제 기능
 - 결제를 해야 서비스 이용이 가능하며, 카카오페이 API를 사용하여 간편 결제가 지원됩니다.
 
   ![membership](https://github.com/user-attachments/assets/a61ecce6-3c7a-4b23-b10f-e769245a2f19)
   ![membership2](https://github.com/user-attachments/assets/e259722d-7d12-42bb-87cb-ed6be89f70b6)
+  ![membership2_normal](https://github.com/user-attachments/assets/c75626f2-6df7-412b-8294-b935eaf4ec61)
 
 ### 6. 게시판
 - 총 3개의 게시판이 있으며, 공지사항, 수강후기, 과목별 질문 게시판을 통해 정보를 확인하고 의견을 남길 수 있습니다.
 
   ![notice](https://github.com/user-attachments/assets/77a5fcf4-a4c1-48e0-9629-bc49eb61c30c)
+  ![notice2](https://github.com/user-attachments/assets/2cf8854e-fddb-4f4d-9f2f-b4506e0e3dc9)
+  ![qna](https://github.com/user-attachments/assets/187edcf4-9f28-4137-8111-063b3df44427)
+  ![qna2](https://github.com/user-attachments/assets/5dd550d1-59b0-4be3-b503-b6ddfdafccc4)
   ![review](https://github.com/user-attachments/assets/3726eb7a-f440-44aa-8477-a549ddf979d0)
+  ![review2](https://github.com/user-attachments/assets/e96db5b5-a146-4a96-afcb-382e0f379226)
 
 ### 7. 단어장 기능
 - 간단한 설명을 보고 맞춰볼 수 있는 단어장 기능을 제공하여 자격증 시험에 나올 개념을 복습할 수 있습니다.
 
   ![word](https://github.com/user-attachments/assets/0605ff15-737f-45f3-9e10-7670ca8366a9)
+  ![word2](https://github.com/user-attachments/assets/f4d1337c-aa11-4771-9784-b15274c85534)
 
 ### 8. 마이페이지
 - 사용자는 자신의 결제 내역을 확인할 수 있으며, 회원정보를 수정할 수 있습니다.
 
   ![mypage](https://github.com/user-attachments/assets/d9e1b375-b715-4466-8a9e-48f0ca47a06e)
+  ![mypage2](https://github.com/user-attachments/assets/b0ce4864-06f1-4885-a034-9ff50aa8bd18)
 
 ---
 
