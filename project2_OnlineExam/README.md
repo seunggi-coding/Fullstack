@@ -21,24 +21,23 @@
 ## 기능 설명 및 화면 구성
 
 ### 1. 메인 페이지
-- 로그인 후 메인 페이지로 이동하며, 결제 여부에 따라 서비스 이용이 가능합니다. 실시간 정답률 및 주요 정보를 확인할 수 있습니다.
+| PC 버전 | Mobile 버전 |
+|:-------:|:-----------:|
+| ![main](https://github.com/user-attachments/assets/1f0a71a9-2ce4-4b2a-9c39-886bf4701ae0) | ![main_mobile](https://github.com/user-attachments/assets/49328608-540f-4de3-801e-f2b5eb4e26a0) |
 
-  ![main](https://github.com/user-attachments/assets/1f0a71a9-2ce4-4b2a-9c39-886bf4701ae0)
-  ![main_mobile](https://github.com/user-attachments/assets/49328608-540f-4de3-801e-f2b5eb4e26a0)
   ![main2](https://github.com/user-attachments/assets/24bf0bc2-6ee4-44a7-9bbe-5ea6b8741861)
 
 ### 2. 회원가입
-- 사용자는 '777' 회원코드를 입력하여 일반 회원으로, '999' 회원코드를 입력하면 관리자로 가입이 가능합니다.
+| PC 버전 | Mobile 버전 |
+|:-------:|:-----------:|
+| ![join](https://github.com/user-attachments/assets/d68c6698-a810-4205-ae56-35177ed3b914) | ![join_mobile](https://github.com/user-attachments/assets/9637f45a-64a4-4d6b-b8fd-8e07b7e56e3b) |
 
-  ![join](https://github.com/user-attachments/assets/d68c6698-a810-4205-ae56-35177ed3b914)
-  ![join_mobile](https://github.com/user-attachments/assets/9637f45a-64a4-4d6b-b8fd-8e07b7e56e3b)
   ![join2](https://github.com/user-attachments/assets/5bb6cc81-a17f-4d60-8b16-9738ed205957)
 
 ### 3. 로그인
-- Spring Security를 적용하여 사용자 또는 관리자로 로그인할 수 있으며, 각 역할에 맞는 페이지에 접근할 수 있습니다.
-
-  ![login](https://github.com/user-attachments/assets/5e35a026-d4c4-4712-9144-d0047d4e1b27)
-  ![login_mobile](https://github.com/user-attachments/assets/20739878-5131-4518-9b9b-a6f3225e4647)
+| PC 버전 | Mobile 버전 |
+|:-------:|:-----------:|
+| ![login](https://github.com/user-attachments/assets/5e35a026-d4c4-4712-9144-d0047d4e1b27) | ![login_mobile](https://github.com/user-attachments/assets/20739878-5131-4518-9b9b-a6f3225e4647) |
 
 ### 4. 문제풀이
 - 사용자는 모의고사 또는 기출문제를 선택해 문제를 풀 수 있으며, 정답률 및 문제풀이 결과를 확인할 수 있습니다.
@@ -49,10 +48,10 @@
   ![example4](https://github.com/user-attachments/assets/51375671-fd7c-4230-a29a-629c7848911c)
 
 ### 5. 결제 기능
-- 결제를 해야 서비스 이용이 가능하며, 카카오페이 API를 사용하여 간편 결제가 지원됩니다.
+| PC 버전 | Mobile 버전 |
+|:-------:|:-----------:|
+| ![membership](https://github.com/user-attachments/assets/a61ecce6-3c7a-4b23-b10f-e769245a2f19) | ![membership2](https://github.com/user-attachments/assets/e259722d-7d12-42bb-87cb-ed6be89f70b6) |
 
-  ![membership](https://github.com/user-attachments/assets/a61ecce6-3c7a-4b23-b10f-e769245a2f19)
-  ![membership2](https://github.com/user-attachments/assets/e259722d-7d12-42bb-87cb-ed6be89f70b6)
   ![membership2_normal](https://github.com/user-attachments/assets/c75626f2-6df7-412b-8294-b935eaf4ec61)
 
 ### 6. 게시판
@@ -75,10 +74,9 @@
   ![word2](https://github.com/user-attachments/assets/f4d1337c-aa11-4771-9784-b15274c85534)
 
 ### 8. 마이페이지
-- 사용자는 자신의 결제 내역을 확인할 수 있으며, 회원정보를 수정할 수 있습니다.
-
-  ![mypage](https://github.com/user-attachments/assets/d9e1b375-b715-4466-8a9e-48f0ca47a06e)
-  ![mypage2](https://github.com/user-attachments/assets/b0ce4864-06f1-4885-a034-9ff50aa8bd18)
+| PC 버전 | Mobile 버전 |
+|:-------:|:-----------:|
+| ![mypage](https://github.com/user-attachments/assets/d9e1b375-b715-4466-8a9e-48f0ca47a06e) | ![mypage2](https://github.com/user-attachments/assets/b0ce4864-06f1-4885-a034-9ff50aa8bd18) |
 
 ---
 
