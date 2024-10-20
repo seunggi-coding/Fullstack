@@ -139,7 +139,7 @@
 정보처리기사 CBT 시스템의 요구명세서는 아래의 링크에서 확인 가능합니다.
 
   [정보처리기사 CBT 시스템 요구명세서](https://github.com/seunggi-coding/Fullstack/blob/main/project2_OnlineExam/project2_%EC%9E%91%EB%8B%B9%EB%AA%A8%EC%9D%98.pdf)
-  [정보처리기사 CBT 시스템 테이블 명세서]([https://github.com/seunggi-coding/Fullstack/blob/main/project1_SmartFarm/%EC%9A%94%EA%B5%AC%EB%AA%85%EC%84%B8%EC%84%9C%20%ED%99%95%EC%9D%B8.pdf](https://github.com/seunggi-coding/Fullstack/blob/main/project2_OnlineExam/project2_%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%AA%85%EC%84%B8%EC%84%9C.pdf))
+  [정보처리기사 CBT 시스템 테이블 명세서](https://github.com/seunggi-coding/Fullstack/blob/main/project2_OnlineExam/project2_%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
   [정보처리기사 CBT 시스템 유스케이스 엑터 목록](https://github.com/seunggi-coding/Fullstack/blob/main/project2_OnlineExam/%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%97%91%ED%84%B0%20%EB%AA%A9%EB%A1%9D.pdf)
 ---
 
