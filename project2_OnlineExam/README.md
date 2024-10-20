@@ -74,10 +74,8 @@
   ![word2](https://github.com/user-attachments/assets/f4d1337c-aa11-4771-9784-b15274c85534)
 
 ### 8. 마이페이지
-| PC 버전 | Mobile 버전 |
-|:-------:|:-----------:|
-| ![mypage](https://github.com/user-attachments/assets/d9e1b375-b715-4466-8a9e-48f0ca47a06e) | ![mypage2](https://github.com/user-attachments/assets/b0ce4864-06f1-4885-a034-9ff50aa8bd18) |
-
+![mypage](https://github.com/user-attachments/assets/d9e1b375-b715-4466-8a9e-48f0ca47a06e)
+![mypage2](https://github.com/user-attachments/assets/b0ce4864-06f1-4885-a034-9ff50aa8bd18)
 ---
 
 <br>
