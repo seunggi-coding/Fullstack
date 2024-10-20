@@ -75,11 +75,11 @@
 
 <br>
 
-## 시스템 아키텍처 다이어그램
+## 요구명세서
 
-SmartFarm 관리 시스템의 전체 아키텍처는 아래 다이어그램과 같습니다.
+SmartFarm 관리 시스템의 요구명세서는 아래의 링크에서 확인 가능합니다.
 
-  ![고급웹프로그래밍_HW2](https://github.com/user-attachments/assets/f46de54b-4700-4e14-b592-1d6ba938be1a)
+  [SmartFarm 관리 시스템 요구명세] (링크)
 
 ---
 
