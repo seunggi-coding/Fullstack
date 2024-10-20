@@ -58,12 +58,15 @@
 ### 6. 게시판
 - 총 3개의 게시판이 있으며, 공지사항, 수강후기, 과목별 질문 게시판을 통해 정보를 확인하고 의견을 남길 수 있습니다.
 
+#### 1) 공지사항
   ![notice](https://github.com/user-attachments/assets/77a5fcf4-a4c1-48e0-9629-bc49eb61c30c)
   ![notice2](https://github.com/user-attachments/assets/2cf8854e-fddb-4f4d-9f2f-b4506e0e3dc9)
-  ![qna](https://github.com/user-attachments/assets/187edcf4-9f28-4137-8111-063b3df44427)
-  ![qna2](https://github.com/user-attachments/assets/5dd550d1-59b0-4be3-b503-b6ddfdafccc4)
+#### 2) 수강후기 
   ![review](https://github.com/user-attachments/assets/3726eb7a-f440-44aa-8477-a549ddf979d0)
   ![review2](https://github.com/user-attachments/assets/e96db5b5-a146-4a96-afcb-382e0f379226)
+#### 3) 과목별 질문 게시판
+  ![qna](https://github.com/user-attachments/assets/187edcf4-9f28-4137-8111-063b3df44427)
+  ![qna2](https://github.com/user-attachments/assets/5dd550d1-59b0-4be3-b503-b6ddfdafccc4)
 
 ### 7. 단어장 기능
 - 간단한 설명을 보고 맞춰볼 수 있는 단어장 기능을 제공하여 자격증 시험에 나올 개념을 복습할 수 있습니다.
