@@ -78,6 +78,73 @@
 
 <br>
 
+## 요구명세서
+
+정보처리기사 CBT 시스템의 요구명세서는 아래의 링크에서 확인 가능합니다.
+
+  [정보처리기사 CBT 시스템 요구명세서](https://github.com/seunggi-coding/Fullstack/blob/main/project1_SmartFarm/%EC%9A%94%EA%B5%AC%EB%AA%85%EC%84%B8%EC%84%9C%20%ED%99%95%EC%9D%B8.pdf)
+  [정보처리기사 CBT 시스템 테이블 명세서](https://github.com/seunggi-coding/Fullstack/blob/main/project1_SmartFarm/%EC%9A%94%EA%B5%AC%EB%AA%85%EC%84%B8%EC%84%9C%20%ED%99%95%EC%9D%B8.pdf)
+  [정보처리기사 CBT 시스템 유스케이스 엑터 목록 ![join](https://github.com/user-attachments/assets/d68c6698-a810-4205-ae56-35177ed3b914) | ![join_mobile](https://github.com/user-attachments/assets/9637f45a-64a4-4d6b-b8fd-8e07b7e56e3b) |
+
+  ![join2](https://github.com/user-attachments/assets/5bb6cc81-a17f-4d60-8b16-9738ed205957)
+
+### 3. 로그인
+| PC 버전 | Mobile 버전 |
+|:-------:|:-----------:|
+| ![login](https://github.com/user-attachments/assets/5e35a026-d4c4-4712-9144-d0047d4e1b27) | ![login_mobile](https://github.com/user-attachments/assets/20739878-5131-4518-9b9b-a6f3225e4647) |
+
+### 4. 문제풀이
+- 사용자는 모의고사 또는 기출문제를 선택해 문제를 풀 수 있으며, 정답률 및 문제풀이 결과를 확인할 수 있습니다.
+
+  ![example](https://github.com/user-attachments/assets/2d10e247-9342-4f07-b58c-7afd896d1ad4)
+  ![example2](https://github.com/user-attachments/assets/9ed992d1-a6ce-480e-885a-f2ab197d2ef1)
+  ![example3](https://github.com/user-attachments/assets/07d90f36-9baa-4d45-ae19-b705b91dbdaf)
+  ![example4](https://github.com/user-attachments/assets/51375671-fd7c-4230-a29a-629c7848911c)
+
+### 5. 결제 기능
+| PC 버전 | Mobile 버전 |
+|:-------:|:-----------:|
+| ![membership](https://github.com/user-attachments/assets/a61ecce6-3c7a-4b23-b10f-e769245a2f19) | ![membership2](https://github.com/user-attachments/assets/e259722d-7d12-42bb-87cb-ed6be89f70b6) |
+
+  ![membership2_normal](https://github.com/user-attachments/assets/c75626f2-6df7-412b-8294-b935eaf4ec61)
+
+### 6. 게시판
+- 총 3개의 게시판이 있으며, 공지사항, 수강후기, 과목별 질문 게시판을 통해 정보를 확인하고 의견을 남길 수 있습니다.
+
+#### 1) 공지사항
+  ![notice](https://github.com/user-attachments/assets/77a5fcf4-a4c1-48e0-9629-bc49eb61c30c)
+  ![notice2](https://github.com/user-attachments/assets/2cf8854e-fddb-4f4d-9f2f-b4506e0e3dc9)
+#### 2) 수강후기 
+  ![review](https://github.com/user-attachments/assets/3726eb7a-f440-44aa-8477-a549ddf979d0)
+  ![review2](https://github.com/user-attachments/assets/e96db5b5-a146-4a96-afcb-382e0f379226)
+#### 3) 과목별 질문 게시판
+  ![qna](https://github.com/user-attachments/assets/187edcf4-9f28-4137-8111-063b3df44427)
+  ![qna2](https://github.com/user-attachments/assets/5dd550d1-59b0-4be3-b503-b6ddfdafccc4)
+
+### 7. 단어장 기능
+- 간단한 설명을 보고 맞춰볼 수 있는 단어장 기능을 제공하여 자격증 시험에 나올 개념을 복습할 수 있습니다.
+
+  ![word](https://github.com/user-attachments/assets/0605ff15-737f-45f3-9e10-7670ca8366a9)
+  ![word2](https://github.com/user-attachments/assets/f4d1337c-aa11-4771-9784-b15274c85534)
+
+### 8. 마이페이지
+![mypage](https://github.com/user-attachments/assets/d9e1b375-b715-4466-8a9e-48f0ca47a06e)
+![mypage2](https://github.com/user-attachments/assets/b0ce4864-06f1-4885-a034-9ff50aa8bd18)
+---
+
+<br>
+
+## 요구명세서
+
+정보처리기사 CBT 시스템의 요구명세서는 아래의 링크에서 확인 가능합니다.
+
+  [정보처리기사 CBT 시스템 요구명세서](https://github.com/seunggi-coding/Fullstack/blob/main/project2_OnlineExam/project2_%EC%9E%91%EB%8B%B9%EB%AA%A8%EC%9D%98.pdf)
+  [정보처리기사 CBT 시스템 테이블 명세서]([https://github.com/seunggi-coding/Fullstack/blob/main/project1_SmartFarm/%EC%9A%94%EA%B5%AC%EB%AA%85%EC%84%B8%EC%84%9C%20%ED%99%95%EC%9D%B8.pdf](https://github.com/seunggi-coding/Fullstack/blob/main/project2_OnlineExam/project2_%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%AA%85%EC%84%B8%EC%84%9C.pdf))
+  [정보처리기사 CBT 시스템 유스케이스 엑터 목록](https://github.com/seunggi-coding/Fullstack/blob/main/project2_OnlineExam/%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%97%91%ED%84%B0%20%EB%AA%A9%EB%A1%9D.pdf)
+---
+
+<br>
+
 ## 사용 기술 스택
 
 ### Backend
