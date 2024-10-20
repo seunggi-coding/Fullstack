@@ -79,7 +79,7 @@
 
 SmartFarm 관리 시스템의 요구명세서는 아래의 링크에서 확인 가능합니다.
 
-  [SmartFarm 관리 시스템 요구명세] (https://github.com/seunggi-coding/Fullstack/blob/main/project1_SmartFarm/%EC%9A%94%EA%B5%AC%EB%AA%85%EC%84%B8%EC%84%9C%20%ED%99%95%EC%9D%B8.pdf)
+  [SmartFarm 관리 시스템 요구명세](https://github.com/seunggi-coding/Fullstack/blob/main/project1_SmartFarm/%EC%9A%94%EA%B5%AC%EB%AA%85%EC%84%B8%EC%84%9C%20%ED%99%95%EC%9D%B8.pdf)
 
 ---
 
@@ -104,10 +104,10 @@ SmartFarm 관리 시스템의 요구명세서는 아래의 링크에서 확인 �
 
 ## 프로젝트 팀원
 
-| Backend Developer |
-| :----------------: |
-| ![문승기](https://github.com/seunggi-coding.png?size=120) |
-| [문승기](https://github.com/seunggi-coding) |
+| Frontend Developer | Backend Developer | Backend Developer |
+| :----------------: | :----------------: | :----------------: |
+| ![김효식](https://github.com/member1.png?size=120) | ![문승기](https://github.com/seunggi-coding.png?size=120) | ![배정웅](https://github.com/member2.png?size=120) |
+| [김효식](https://github.com/member1) | [문승기](https://github.com/seunggi-coding) | [배정웅](https://github.com/member2) |
 
 ---
 
