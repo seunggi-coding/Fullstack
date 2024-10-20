@@ -33,10 +33,9 @@
 - **설명**: 정보처리기사 자격증을 준비하기 위한 CBT 시스템으로, 모의고사 또는 기출문제 풀이, 정답률 확인, 결제 기능, 단어장 등의 기능을 제공합니다. PC, 태블릿, 모바일 환경에서 적응형 웹페이지로 구현되었습니다.
 - **기술 스택**: Java, Spring Boot, SQL Developer, Spring Security, JPA, GitHub
 
-| 버전 | 웹페이지 화면 |
+| PC 버전 | Mobile 버전 |
 |:-------:|:-----------:|
-| **PC 버전** | <img src="https://github.com/user-attachments/assets/1f0a71a9-2ce4-4b2a-9c39-886bf4701ae0" width="1000"/> |
-| **모바일 버전** | <img src="https://github.com/user-attachments/assets/49328608-540f-4de3-801e-f2b5eb4e26a0" width="300"/> |
+| ![main](https://github.com/user-attachments/assets/1f0a71a9-2ce4-4b2a-9c39-886bf4701ae0) | ![main_mobile](https://github.com/user-attachments/assets/49328608-540f-4de3-801e-f2b5eb4e26a0) | ![main2](https://github.com/user-attachments/assets/24bf0bc2-6ee4-44a7-9bbe-5ea6b8741861)
 
 <br />
 
