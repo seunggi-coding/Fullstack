@@ -39,29 +39,34 @@
 
   ![login](https://github.com/user-attachments/assets/d80c9900-eba8-4c57-a04a-fedf2445aa12)
 
-### 4. 장치 제어 및 작물 정보 확인
-- 관리자는 원격으로 장치를 제어할 수 있으며, 사용자는 작물 재배 정보를 확인할 수 있습니다. 장치 상태 및 작업 성공 여부가 화면에 표시됩니다.
+### 4. 장치 제어
+- 사용자는 원격으로 장치를 제어할 수 있으며, 장치 상태 및 작업 성공 여부가 화면에 표시됩니다.
 
   ![device](https://github.com/user-attachments/assets/f5c937ef-18dc-4af7-856f-a94d7f0366ca)
-  ![device_success_after](https://github.com/user-attachments/assets/b41b5a28-be2d-4c59-8af1-96bfb9bbf9e2)
-  ![device_sucess](https://github.com/user-attachments/assets/a9db89a3-e9a6-4c5d-8976-271b52bd18a1)
   ![device_water](https://github.com/user-attachments/assets/47c56eda-546e-4386-9c69-217888c41d6f)
+  ![device_sucess](https://github.com/user-attachments/assets/a9db89a3-e9a6-4c5d-8976-271b52bd18a1)
+  ![device_success_after](https://github.com/user-attachments/assets/b41b5a28-be2d-4c59-8af1-96bfb9bbf9e2)
+
+### 5. 작물 정보 확인
+- 작물 재배 정보를 확인할 수 있습니다. 작물 리스트에 마우스를 호버하면, 각 작물에 대한 자세한 재배 정보가 나타나며, 재배 상태와 필요한 관리 작업 등을 확인할 수 있습니다. 장치 상태 및 작업 성공 여부도 화면에 표시됩니다.
+
   ![list](https://github.com/user-attachments/assets/34b7155d-b4d1-4c24-b671-9a4637210277)
   ![list2](https://github.com/user-attachments/assets/7187c62b-6dd6-41cd-bc32-8275ce1c3a56)
 
-### 5. 문의 게시판
+
+### 6. 문의 게시판
 - 사용자는 문의 게시판을 통해 질문을 올리고, 관리자는 답변을 작성할 수 있습니다.
 
   ![qna](https://github.com/user-attachments/assets/f7af3575-67a7-4ce1-807d-e3153c041acb)
   ![qna_add](https://github.com/user-attachments/assets/c6ae3d4a-e7d2-4606-bd85-bf22c12cf2f5)
 
-### 6. 공지사항
+### 7. 공지사항
 - 관리자는 공지사항을 작성하여 중요한 정보를 사용자에게 전달할 수 있습니다.
 
   ![notice](https://github.com/user-attachments/assets/b51d4a73-714e-4a9e-ac4f-86943254d560)
   ![notice_add](https://github.com/user-attachments/assets/c10c790e-8cd3-4a5c-a736-9583293ddc48)
 
-### 7. 회원 정보 수정
+### 8. 회원 정보 수정
 - 사용자는 마이페이지에서 회원 정보를 수정할 수 있습니다.
 
   ![mypage](https://github.com/user-attachments/assets/cb27f78f-690f-4598-a9b6-55e7e60f21fc)
