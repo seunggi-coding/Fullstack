@@ -21,7 +21,7 @@
 
 ### 1. **SmartFarm 관리 시스템 🌱**
 - **설명**: SmartFarm 관리 시스템은 IoT 기반 작물 재배 관리 시스템으로, 회원가입, 로그인, 작물 정보 조회, 문의 게시판, 공지사항 등의 다양한 기능을 제공합니다. 회원과 관리자 기능이 분리된 백엔드 시스템입니다.
-- **기술 스택**: Java, Spring Boot, MySQL, JPA, Spring Security, IntelliJ IDEA, GitHub
+- **기술 스택**: Java, Spring Boot, SQL Developer, JPA, Spring Security, IntelliJ IDEA, GitHub
 
 |SmartFarm 관리 시스템 메인 페이지|
 |:---:|
@@ -31,7 +31,7 @@
 
 ### 2. **정보처리기사 CBT 시스템 🖥️**
 - **설명**: 정보처리기사 자격증을 준비하기 위한 CBT 시스템으로, 모의고사 또는 기출문제 풀이, 정답률 확인, 결제 기능, 단어장 등의 기능을 제공합니다. PC, 태블릿, 모바일 환경에서 적응형 웹페이지로 구현되었습니다.
-- **기술 스택**: Java, Spring Boot, MySQL, Spring Security, JPA, GitHub
+- **기술 스택**: Java, Spring Boot, SQL Developer, Spring Security, JPA, GitHub
 
 |정보처리기사 CBT 시스템 메인 페이지|
 |:---:|
@@ -45,7 +45,7 @@
 <div>
   <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
   <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringBoot.png?raw=true" width="80">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Mysql.png?raw=true" width="80">
+  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SqlDeveloper.png?raw=true" width="80">
   <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringDataJPA.png?raw=true" width="80">
   <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringSecurity.png?raw=true" width="80">
   <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="80">
