@@ -23,9 +23,7 @@
 ### 1. 메인 페이지
 | PC 버전 | Mobile 버전 |
 |:-------:|:-----------:|
-| ![main](https://github.com/user-attachments/assets/1f0a71a9-2ce4-4b2a-9c39-886bf4701ae0) | ![main_mobile](https://github.com/user-attachments/assets/49328608-540f-4de3-801e-f2b5eb4e26a0) |
-
-  ![main2](https://github.com/user-attachments/assets/24bf0bc2-6ee4-44a7-9bbe-5ea6b8741861)
+| ![main](https://github.com/user-attachments/assets/1f0a71a9-2ce4-4b2a-9c39-886bf4701ae0) | ![main_mobile](https://github.com/user-attachments/assets/49328608-540f-4de3-801e-f2b5eb4e26a0) | ![main2](https://github.com/user-attachments/assets/24bf0bc2-6ee4-44a7-9bbe-5ea6b8741861)
 
 ### 2. 회원가입
 | PC 버전 | Mobile 버전 |
